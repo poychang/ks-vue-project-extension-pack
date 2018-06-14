@@ -1,0 +1,21 @@
+{
+    "name": "ks-vue-project-extension-pack",
+    "displayName": "KS-Vue-Project-Extension-Pack",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "PoyChang",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "octref.vetur",
+        "christian-kohler.path-intellisense",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens"
+    ]
+}
