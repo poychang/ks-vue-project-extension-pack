@@ -1,13 +1,14 @@
 {
     "name": "ks-vue-project-extension-pack",
-    "displayName": "KS-Vue-Project-Extension-Pack",
-    "description": "",
+    "displayName": "KS Vue Project Extension Pack",
+    "description": "For internal Vue project use",
     "version": "0.0.1",
     "publisher": "PoyChang",
     "repository": "https://github.com/poychang/ks-vue-project-extension-pack",
     "engines": {
         "vscode": "^1.24.0"
     },
+    "keywords": ["Vue", "Front-End"],
     "categories": [
         "Extension Packs"
     ],
