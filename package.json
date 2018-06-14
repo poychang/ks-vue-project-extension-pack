@@ -2,7 +2,7 @@
     "name": "ks-vue-project-extension-pack",
     "displayName": "KS Vue Project Extension Pack",
     "description": "For internal Vue project use",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "PoyChang",
     "repository": "https://github.com/poychang/ks-vue-project-extension-pack",
     "engines": {
