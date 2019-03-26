@@ -2,13 +2,16 @@
     "name": "ks-vue-project-extension-pack",
     "displayName": "KS Vue Project Extension Pack",
     "description": "For internal Vue project use",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "PoyChang",
     "repository": "https://github.com/poychang/ks-vue-project-extension-pack",
     "engines": {
         "vscode": "^1.24.0"
     },
-    "keywords": ["Vue", "Front-End"],
+    "keywords": [
+        "Vue",
+        "Front-End"
+    ],
     "categories": [
         "Extension Packs"
     ],
@@ -18,6 +21,7 @@
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
         "esbenp.prettier-vscode",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "dbaeumer.vscode-eslint"
     ]
 }
